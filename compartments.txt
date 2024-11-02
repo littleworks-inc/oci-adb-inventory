@@ -1,0 +1,2 @@
+ocid1.compartment.oc1..xxxx nonprod
+ocid1.compartment.oc1..yyyy prod
